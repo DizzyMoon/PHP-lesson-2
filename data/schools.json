@@ -1,0 +1,19 @@
+{
+    "schools": [
+        {
+            "name": "KEA"
+        },
+        {
+            "name": "CBS - Business"
+        },
+        {
+            "name": "ITU"
+        },
+        {
+            "name": "DTU"
+        },
+        {
+            "name": "KU"
+        }
+    ]
+}
